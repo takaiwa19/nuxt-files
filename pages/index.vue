@@ -1,5 +1,5 @@
 <template lang="pug">
-  h1 test
+  h1.u-ta-c test
 </template>
 
 <script>
